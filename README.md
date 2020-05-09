@@ -101,8 +101,13 @@ Flatten              [10]                 0          False
 ______________________________________________________________________
 
 Total params: 41,132 
-Total trainable params: 41,132 Total 
-non-trainable params: 0 
+
+Total trainable params: 41,132 
+
+Total non-trainable params: 0 
+
 Optimized with 'torch.optim.adam.Adam', betas=(0.9, 0.99)
+
 Using true weight decay as discussed in https://www.fast.ai/2018/07/02/adam-weight-decay/ 
+
 Loss function : CrossEntropyLoss
