@@ -3,6 +3,6 @@ Implemented Convolutional Neural Network from scratch. Used the MNIST dataset fo
 
 MNIST Data:
 
-![Sample Data] {}
+![Sample Data] (samplData.png)
 
 
