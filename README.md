@@ -1,11 +1,11 @@
 # cnn-from-scratch
 Implemented Convolutional Neural Network from scratch. Used the MNIST dataset for the implementation.
 
-MNIST Data:
+# MNIST Data:
 
 ![Sample Data](https://github.com/Achilles107/cnn-from-scratch/blob/master/samplData.png)
 
-Summary of the Leaner:
+# Summary of the Leaner:
 
 Sequential
 ======================================================================
@@ -100,11 +100,4 @@ ______________________________________________________________________
 Flatten              [10]                 0          False     
 ______________________________________________________________________
 
-Total params: 41,132
-Total trainable params: 41,132
-Total non-trainable params: 0
-Optimized with 'torch.optim.adam.Adam', betas=(0.9, 0.99)
-Using true weight decay as discussed in https://www.fast.ai/2018/07/02/adam-weight-decay/ 
-Loss function : CrossEntropyLoss
-======================================================================
-Callbacks functions applied
+Total params: 41,132 Total trainable params: 41,132 Total non-trainable params: 0 Optimized with 'torch.optim.adam.Adam', betas=(0.9, 0.99) Using true weight decay as discussed in https://www.fast.ai/2018/07/02/adam-weight-decay/ Loss function : CrossEntropyLoss
